@@ -110,4 +110,4 @@ func changeBackgroundImage() {
 
 ### /stroop/Test/Stroop/StroopBaseController 中 func calcScore() 中 lowerBound > upperBound 导致 Fatal error 程序崩溃
 
-![Screen Shot 2022-02-22 at 13.19.04.png](../_resources/Screen Shot 2022-02-22 at 13.19.04.png)
+![Screen Shot 2022-02-22 at 13.19.04.png](https://github.com/Yu-Haikuo/MarkDown-Images/raw/main/Stroop中存在的一些问题/_resources/Screen%20Shot%202022-02-22%20at%2013.19.04.png)
